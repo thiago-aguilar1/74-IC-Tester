@@ -1,5 +1,5 @@
 # Testador de CI 74XX
-Testador automático de circuitos integrados 74xx (circuitos integrados de portas lógicas) usando Arduino.
+Testador automático de circuitos integrados (CIs) 74xx (aqueles circuitos integrados de portas lógicas) usando Arduino.
 
 ![Testador montado](https://github.com/thiago-aguilar1/74-IC-Tester/blob/main/IMG_8304.JPG)
 
